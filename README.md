@@ -46,17 +46,17 @@ The Sentiment140 dataset with 1.6 million tweets was used for model development 
 - Accuracy graph
 
 
-![Sample Image](images/3.png)
+![Sample Image](images/3.png){: width="75%"}{: height="75%"}
 - Loss Graph
 
 
-![Sample Image](images/4.png)
+![Sample Image](images/4.png){: width="75%"}{: height="75%"}
 - Confusion Matric
 
 
-![Sample Image](images/2.png)
+![Sample Image](images/2.png){: width="75%"}{: height="75%"}
 - F1 score, Precision, and Recall
 
 
-![Sample Image](images/1.png)
+![Sample Image](images/1.png){: width="75%"}{: height="75%"}
 
