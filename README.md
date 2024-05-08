@@ -42,6 +42,22 @@ The Sentiment140 dataset with 1.6 million tweets was used for model development 
 - Achieved 83.98% accuracy on the Train set and 83.51% on the Test set.
 - Saved the model and tokenizer.
 
+## Deployment
+
+### Using Docker
+
+1. Install Docker Hub for Desktop from their [official website](https://www.docker.com/products/docker-desktop).
+
+2. Run the following two commands in your terminal or command prompt:
+
+   ```bash
+   docker build -t <image_name> .
+   docker run -p 8501:8501 <image_name>
+
+### Deployment on AWS (Coming Soon)
+
+We will be adding further steps for deploying your application on AWS soon.
+
 ## Dataset and Pre-Processing
 - Accuracy graph
 
